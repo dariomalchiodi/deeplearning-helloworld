@@ -5,7 +5,6 @@ channels: !!python/tuple
 dependencies:
   - _nb_ext_conf=0.3.0=py35_0
   - anaconda-client=1.6.0=py35_0
-  - appnope=0.1.0=py35_0
   - clyent=1.2.2=py35_0
   - conda-forge::blas=1.1=openblas
   - conda-forge::libgfortran=3.0.0=0
